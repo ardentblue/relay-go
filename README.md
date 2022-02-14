@@ -72,5 +72,10 @@ go build
 ./server --addr 0.0.0.0:8081
 ```
 
+## TODO:
+* Add missing relay device commands.
+* Hanlde relay device events such as START, STOP etc.
+* Add utilities to handle websocket connections.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
